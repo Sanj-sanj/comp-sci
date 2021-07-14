@@ -1,2 +1,2 @@
-# comp-sci
+# algorithms-exercises
 Created with CodeSandbox
